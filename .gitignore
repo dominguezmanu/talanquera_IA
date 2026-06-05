@@ -1,0 +1,5 @@
+*.sqlite3
+reporte_accesos*.pdf
+reporte_parqueo*.pdf
+__pycache__/*
+
